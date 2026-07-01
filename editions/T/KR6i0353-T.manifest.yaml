@@ -1,0 +1,166 @@
+canonical_identifier: bkk:krp/KR6i0353/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0353/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 解深密經
+  identifiers:
+    krp: KR6i0353
+    cbeta: T16n0676
+    cbeta_old_id: T16n0676
+    authorityid: CA0001580
+    json_key: T0676
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0676.xml
+    old_id: T16n0676
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0353_000-T.yaml, hash: 'sha256:94083468526c71324fd76afb640b40371f427ac4aa59e720ed4e6552a46c2054'}
+  - {seq: 1, filename: KR6i0353_001-T.yaml, hash: 'sha256:7904c9b184e932d0fbed58df6b94c54a26ed1451c42e7d6343b8af0be91dcd17'}
+  - {seq: 2, filename: KR6i0353_002-T.yaml, hash: 'sha256:3ecdf58d6b834fa7afec9cb6ef90b9a71d529c0eaba31b44bea5ebdf47d8c623'}
+  - {seq: 3, filename: KR6i0353_003-T.yaml, hash: 'sha256:a12e7e1e10fed929752f840ba29ea06d5789f965ca5145ba8f0a228bdf78a5f3'}
+  - {seq: 4, filename: KR6i0353_004-T.yaml, hash: 'sha256:7690335ddab2ccd1b6e6eaabd0efc037eb7341fb6c4e7e29ef1ccf0986964f22'}
+  - {seq: 5, filename: KR6i0353_005-T.yaml, hash: 'sha256:aa782185fc66ad52d30a5a79edffe697e713f85f3edd1808c5ee174687b43f05'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0353_000-T.markers.yaml, hash: 'sha256:17cd30992ec9894bf9c89375dea0b935b85829ccb1d535d974d9a96f2f73c806'}
+  - {seq: 1, role: markers, filename: assets/KR6i0353_001-T.markers.yaml, hash: 'sha256:e8b1ff5cbaa4c36bd671eca3dce087e8bf2695ae6181eabefdcb8ec83c51fb47'}
+  - {seq: 2, role: markers, filename: assets/KR6i0353_002-T.markers.yaml, hash: 'sha256:2c01cec5495548b00581b6363099931437cdc014642b0b6b1a86a6dfbc65c848'}
+  - {seq: 3, role: markers, filename: assets/KR6i0353_003-T.markers.yaml, hash: 'sha256:6c550d8d39175a8b88e528f3a751482e6c7db5a3d24a85fcdfd7d1b360bf6e22'}
+  - {seq: 4, role: markers, filename: assets/KR6i0353_004-T.markers.yaml, hash: 'sha256:dd4d91a6480417fb3df7bd06f7e60bdea2e4f33ab3f88956ad3a2fc4ca092634'}
+  - {seq: 5, role: markers, filename: assets/KR6i0353_005-T.markers.yaml, hash: 'sha256:93f892deb7f66759e034095b8fb59049a73881934543a63bc3247ef42f351daf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0353_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6302
+  label: 解深密經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0353_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0353_T_001-mulu-2
+    span:
+    - body
+    - 668
+    - 668
+  label: 2 勝義諦相品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0353_T_001-mulu-3
+    span:
+    - body
+    - 5429
+    - 5429
+  label: 3 心意識相品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0353_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6512
+  label: 解深密經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0353_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 4 一切法相品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0353_T_002-mulu-2
+    span:
+    - body
+    - 1081
+    - 1081
+  label: 5 無自性相品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0353_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7977
+  label: 解深密經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0353_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 6 分別瑜伽品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0353_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6809
+  label: 解深密經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0353_T_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 7 地波羅蜜多品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0353_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4326
+  label: 解深密經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0353_T_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 8 如來成所作事品(五)
+  type: mulu
+  level: 1
+hash: sha256:cbe2413e931b4441bf7204f785501794e17531cd95b8fe56445c5cb17a111495

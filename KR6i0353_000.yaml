@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0353/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 解深密經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0676.xml
+    old_id: T16n0676
+hash: sha256:94083468526c71324fd76afb640b40371f427ac4aa59e720ed4e6552a46c2054
